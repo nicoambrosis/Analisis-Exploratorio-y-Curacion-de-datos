@@ -5,7 +5,7 @@
     </h3>
 
 <p align="center">
-  <img src="https://github.com/nicoambrosis/Analisis-y-Visualizacion-de-datos/blob/main/Banner.png">
+  <img src="https://github.com/nicoambrosis/Analisis-Exploratorio-y-Curacion-de-datos/blob/main/Banners%20Diplodatos.png">
 </p>
 
 
